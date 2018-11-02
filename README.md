@@ -1,5 +1,5 @@
 # SImilarity-Measure-LibrAry
-***SI***milarity ***M***easure ***L***ibrAry: extended python library for similarity measures
+**SI**milarity **M**easure **L**ibrAry: extended python library for similarity measures
 
 Under development
 
